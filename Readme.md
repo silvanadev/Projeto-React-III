@@ -1,4 +1,4 @@
-# PROJETO GUIADO - REACT III - Consolidando os Aprendizados.
+# PROJETO GUIADO - REACT III - Consolidando os aprendizados.
 
 
 
