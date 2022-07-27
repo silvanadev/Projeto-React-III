@@ -8,7 +8,7 @@
 
 ----
 
-## Aeeeeeeeee, cheguei na reta final da trilha de React.JS apresentado no curso de Front-End da Reprograma S2
+## Aeeeeeeeee, cheguei na reta final da trilha de React apresentado no curso de Front-End da Reprograma S2
 
 Ao final desse projeto me sinto apta a desenvolver um projeto do zero ao deploy.
 
