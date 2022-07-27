@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+SC:wght@300;400;500;600;700;800;900&family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+.section-sobre {
+    display: flex;
+    padding: 10px;
+}
+
+.div-sobre {
+    display: flex;
+    margin: 1rem auto;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    width: 60%;
+}
+
+.div-sobre img {
+    width: 160px;
+    height: 200px;
+}
+
+.prazer h1 {
+    font-size: 36px;
+    color: black;
+    font-family: 'Cormorant SC', serif;
+}
+
+.div-sobre p {
+    font-weight: 300;
+    font-size: 18px;
+}

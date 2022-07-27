@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+SC:wght@300;400;500;600;700;800;900&family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+.section-contatos {
+    display: flex;
+}
+
+.contatos-h2 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.div-contatos {
+    display: flex;
+    margin: 0px auto;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    width: 60%;
+}
+
+.div-contatos img {
+    width: 100px;
+}
+
+.div-contatos hr {
+    width: 10px;
+    height: 10px;
+    padding: 1px;
+    background-color: #686AAC;
+    margin-top: -2.5rem;
+}
+
+.redes-h2 {
+    font-size: 18px;
+    margin-top: -0.2rem;
+}
+
+.redes-a {
+    text-decoration: none;
+}
+
+.div-sobre p {
+    font-weight: 300;
+    font-size: 18px;
+}
